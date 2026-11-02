@@ -1,0 +1,1 @@
+{ "name": "whale-collector", "type": "module", "private": true, "engines": { "node": ">=22.13" }, "scripts": { "start": "node --no-warnings server.js" } }
